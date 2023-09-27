@@ -1,5 +1,7 @@
 # QR-Code Generator
 This simple web application allows you to generate QR codes by entering text or URLs. It's a handy tool for quickly creating QR codes for various purposes.
+[Scan the QR Code below!]
+
 ![Game Screenshot](Shiah's%20LinkedIN.png)
 
 ## Table of Contents
